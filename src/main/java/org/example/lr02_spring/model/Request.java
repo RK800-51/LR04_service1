@@ -20,7 +20,7 @@ public class Request {
     @NotBlank
     private String operationUid;
 
-    private String systemName;
+    private Systems systemName;
     private String systemTime;
     private String source;
     private int communicationId;
@@ -31,5 +31,19 @@ public class Request {
     //@AssertTrue(message = "uid не может быть равен 123")
     public boolean isUidValid() {
         return !uid.equals("123");
+    }
+
+    public String toString() {
+        return "{" +
+                "uid='" + uid + '\'' +
+                ", operationUid='" + operationUid + '\'' +
+                ", systemName='" + systemName + '\'' +
+                ", systemTime='" + systemTime + '\'' +
+                ", source='" + source + '\'' +
+                ", communicationId" + communicationId +'\'' +
+                ", templateId=" + templateId +
+                ", productCode=" + productCode +
+                ", smsCode=" + smsCode +
+                "}";
     }
 }

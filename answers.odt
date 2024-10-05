@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:date>2024-09-23T12:58:37.837820788</dc:date><meta:editing-duration>PT6M17S</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="28" meta:word-count="492" meta:character-count="3918" meta:non-whitespace-character-count="3437"/><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator></office:meta>
+ <office:meta><dc:date>2024-10-05T14:51:41.247136149</dc:date><meta:editing-duration>PT6M42S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="31" meta:word-count="489" meta:character-count="3860" meta:non-whitespace-character-count="3363"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">2752</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">38737</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">17702</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">36885</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">18734</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">22117</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">38642</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">9941</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">13099</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">38735</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">17701</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">2752</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">36883</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">21484</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -88,7 +88,7 @@
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">2087702</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2235347</config:config-item>
    <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
@@ -153,7 +153,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -188,52 +188,52 @@
    <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
   </style:style>
   <text:outline-style style:name="Outline">
-   <text:outline-level-style text:level="1" style:num-format="">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="2" style:num-format="">
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="3" style:num-format="">
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="4" style:num-format="">
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="5" style:num-format="">
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="6" style:num-format="">
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="7" style:num-format="">
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="8" style:num-format="">
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="9" style:num-format="">
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
    </text:outline-level-style>
-   <text:outline-level-style text:level="10" style:num-format="">
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab"/>
     </style:list-level-properties>
@@ -256,6 +256,15 @@
   <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1a1a1a" loext:opacity="100%" style:font-name="Liberation Serif" fo:font-size="11.25pt" fo:letter-spacing="normal" fo:language="zxx" fo:country="none" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="00076c46" officeooo:paragraph-rsid="001e3ab7" style:language-asian="zxx" style:country-asian="none" style:font-weight-asian="bold" style:language-complex="zxx" style:country-complex="none" style:font-weight-complex="bold"/>
   </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1a1a1a" loext:opacity="100%" style:font-name="Liberation Serif" fo:font-size="11.25pt" fo:letter-spacing="normal" fo:language="zxx" fo:country="none" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00076c46" officeooo:paragraph-rsid="001e3ab7" style:language-asian="zxx" style:country-asian="none" style:font-weight-asian="normal" style:language-complex="zxx" style:country-complex="none" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1a1a1a" loext:opacity="100%" style:font-name="Liberation Serif" fo:font-size="11.25pt" fo:letter-spacing="normal" fo:language="zxx" fo:country="none" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00076c46" officeooo:paragraph-rsid="001e3ab7" style:language-asian="zxx" style:country-asian="none" style:font-weight-asian="normal" style:language-complex="zxx" style:country-complex="none" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1a1a1a" loext:opacity="100%" style:font-name="Liberation Serif" fo:font-size="11.25pt" fo:letter-spacing="normal" fo:language="zxx" fo:country="none" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="00076c46" officeooo:paragraph-rsid="001e3ab7" style:language-asian="zxx" style:country-asian="none" style:font-weight-asian="bold" style:language-complex="zxx" style:country-complex="none" style:font-weight-complex="bold"/>
+  </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="001e3ab7"/>
   </style:style>
@@ -265,16 +274,22 @@
   <style:style style:name="T3" style:family="text">
    <style:text-properties officeooo:rsid="001fdb16"/>
   </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties officeooo:rsid="002028c3"/>
+  </style:style>
   <style:page-layout style:name="pm1">
-   <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="11.6929in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in" loext:margin-gutter="0in">
+   <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="11.6929in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in" loext:margin-gutter="0in">
     <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
    <style:header-style/>
    <style:footer-style/>
   </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
  </office:automatic-styles>
  <office:master-styles>
-  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1"/>
  </office:master-styles>
  <office:body>
   <office:text text:use-soft-page-breaks="true">
@@ -285,56 +300,57 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P1">Ответы на вопросы, ЛР №<text:span text:style-name="T1">2</text:span>. </text:p>
+   <text:p text:style-name="P1">Ответы на вопросы, ЛР №<text:span text:style-name="T4">3</text:span>. </text:p>
    <text:p text:style-name="P1">Номера вопросов – четные.</text:p>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P4">Какое содержимое может передаваться POST запросом?</text:p>
+   <text:p text:style-name="P4">Что такое CRM система? Приведите примеры.</text:p>
    <text:p text:style-name="P4"/>
-   <text:p text:style-name="P3">POST-запрос в HTTP используется для отправки данных на сервер. Содержимое, которое может передаваться в POST-запросе, может значительно варьироваться в зависимости от целей запроса и структуры данных. Вот основные типы содержимого, которые можно передавать:</text:p>
+   <text:p text:style-name="P3">CRM (Customer Relationship Management) система — это программное обеспечение, которое помогает компаниям управлять взаимодействиями с клиентами и потенциальными клиентами. Цель CRM-систем заключается в улучшении отношений с клиентами, повышении уровня обслуживания и увеличении продаж. Основные функции CRM-систем обычно включают сбор и хранение информации о клиентах, управление продажами, автоматизацию маркетинга, поддержку клиентов и анализ данных.</text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3">1. Формат application/x-www-form-urlencoded:</text:p>
-   <text:p text:style-name="P3"><text:s text:c="3"/>- Это основной тип содержимого для форм HTML. Данные кодируются в паре &quot;ключ=значение&quot; и отделяются амперсандом (&amp;). Например: name=John&amp;age=30.</text:p>
+   <text:p text:style-name="P3">Примеры популярных CRM-систем:</text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3">2. Формат multipart/form-data:</text:p>
-   <text:p text:style-name="P3"><text:s text:c="3"/>- Этот тип содержимого используется для загрузки файлов. Данные разбиваются на части, каждая из которых имеет заголовок с метаданными, такими как имя поля и имя файла. Это позволяет отправлять файлы и текстовые данные одновременно.</text:p>
+   <text:p text:style-name="P3">1. Salesforce — одно из самых популярных CRM-решений в мире, которое предлагает широкий спектр функций для управления продажами, маркетингом и обслуживанием клиентов.</text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3">3. Формат application/json:</text:p>
-   <text:p text:style-name="P3"><text:s text:c="3"/>- Используется для передачи данных в формате JSON. Это популярный способ общения между клиентом и сервером, особенно в API. Например: {&quot;name&quot;: &quot;John&quot;, &quot;age&quot;: 30}.</text:p>
+   <text:p text:style-name="P3">2. HubSpot — CRM-система, которая предлагает бесплатный базовый план и дополнительные платные функции для маркетинга, продаж и обслуживания.</text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3">4. Формат text/xml:</text:p>
-   <text:p text:style-name="P3"><text:s text:c="3"/>- Используется для передачи данных в виде XML-документов. Хотя этот формат менее распространен по сравнению с JSON, он все еще используется в некоторых приложениях и API.</text:p>
+   <text:p text:style-name="P3">3. Microsoft Dynamics 365 — мощная CRM-платформа, интегрированная с другими сервисами Microsoft, предоставляющая решения для управления продажами, обслуживанием клиентов и финансами.</text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3">5. Другие форматы:</text:p>
-   <text:p text:style-name="P3"><text:s text:c="3"/>- Возможно использование других форматов, таких как text/plain (для передачи текстовых данных), application/octet-stream (для передачи бинарных данных), и т.д.</text:p>
+   <text:p text:style-name="P3">4. Zoho CRM — доступное и функциональное решение для малого и среднего бизнеса, позволяющее автоматизировать многие бизнес-процессы.</text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3">Важно помнить, что сервер должен знать, как обрабатывать данные в зависимости от указанного типа содержимого в заголовке Content-Type POST-запроса.</text:p>
+   <text:p text:style-name="P3">5. Pipedrive — ориентированная на продажу CRM-система с простым интерфейсом и инструментами для управления воронкой продаж.</text:p>
    <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3">6. Bitrix24 — российская CRM-платформа, которая предлагает инструменты для управления проектами, задачами и коммуникацией внутри команды.</text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P2"><text:span text:style-name="T2">Зачем нужны кастомные исключения?</text:span></text:p>
-   <text:p text:style-name="P2"/>
-   <text:p text:style-name="P3">Кастомные исключения в приложении имеют несколько важных целей и преимуществ:</text:p>
+   <text:p text:style-name="P3">Каждая из этих систем обладает уникальными функциональными возможностями и может быть адаптирована под нужды разных компаний.</text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3">1. Ясность и информативность: Кастомные исключения позволяют создавать более понятные и конкретные сообщения об ошибках. Вместо использования общих исключений, таких как RuntimeException или Exception, можно определить свое собственное исключение, которое четко указывает на конкретную проблему. Это облегчает отладку и понимание кода.</text:p>
+   <text:p text:style-name="P4">Какие библиотеки логгирования бывают в Spring?</text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3">2. Обработка ошибок: Кастомные исключения позволяют централизовать обработку ошибок. В Spring можно использовать механизмы, такие как @ControllerAdvice, чтобы перехватывать и обрабатывать все кастомные исключения в одном месте, что упрощает управление ошибками и их трансляцию в соответствующий ответ для клиента.</text:p>
+   <text:p text:style-name="P3">В Spring существует несколько библиотек для логгирования, каждая из которых имеет свои особенности и преимущества. </text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3">3. Кодовое разделение: Создание кастомных исключений позволяет разделять логику обработки ошибок от основной бизнес-логики приложения. Это делает код чище и более структурированным.</text:p>
+   <text:p text:style-name="P3">1. SLF4J (Simple Logging Facade for Java):</text:p>
+   <text:p text:style-name="P3"><text:s text:c="3"/>- Это абстракция для различных библиотек логгирования. Она позволяет разработчикам использовать один и тот же API для работы с различными библиотеками логгирования, такими как Logback, Log4j и другими.</text:p>
+   <text:p text:style-name="P3"><text:s text:c="3"/>- SLF4J не реализует логгирование самостоятельно, а предоставляет интерфейсы, которые могут быть реализованы другими библиотеками.</text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3">4. Обогащение исключений: Кастомные исключения могут содержать дополнительные поля с информацией об ошибке, что позволяет передавать больше контекста, например, идентификаторы объектов или состояние системы в момент возникновения исключения.</text:p>
+   <text:p text:style-name="P3">2. Logback:</text:p>
+   <text:p text:style-name="P3"><text:s text:c="3"/>- Это библиотека логгирования, созданная как преемник Log4j. Она хорошо интегрируется со SLF4J и является стандартной библиотекой логгирования в Spring Boot.</text:p>
+   <text:p text:style-name="P3"><text:s text:c="3"/>- Logback поддерживает различные конфигурационные файлы (XML, Groovy) и предлагает множество опций для настройки.</text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3"><text:span text:style-name="T3">5</text:span>. Упрощение тестирования: Имея кастомные исключения, можно легче имитировать различные <text:soft-page-break/>сценарии и тестировать обработку ошибок в приложении. Это улучшает качество тестирования и делает его более предсказуемым.</text:p>
+   <text:p text:style-name="P3">3. Log4j 2:</text:p>
+   <text:p text:style-name="P3"><text:s text:c="3"/>- Это еще одна популярная библиотека для логгирования, которая является улучшенной версией <text:soft-page-break/>original Log4j. Она имеет лучшее управление производительностью и более богатые возможности настройки.</text:p>
+   <text:p text:style-name="P3"><text:s text:c="3"/>- Log4j 2 также поддерживает SLF4J и может использоваться в Spring-приложениях.</text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P4">Что означает аннотация @RestController?</text:p>
+   <text:p text:style-name="P3">4. Java Util Logging (JUL):</text:p>
+   <text:p text:style-name="P3"><text:s text:c="3"/>- Это стандартная библиотека логгирования, входящая в Java SE. Хотя она не так популярна, как другие библиотеки, ее можно использовать в Spring.</text:p>
+   <text:p text:style-name="P3"><text:s text:c="3"/>- Spring предоставляет интеграцию с Java Util Logging, но многие разработчики предпочитают более мощные решения, такие как Logback или Log4j.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P3">5. Commons Logging:</text:p>
+   <text:p text:style-name="P3"><text:s text:c="3"/>- Это еще одна библиотека, которая является оберткой для разных библиотек логгирования. Однако в современных приложениях ее использование стало менее распространенным благодаря более современным решениям, таким как SLF4J.</text:p>
+   <text:p text:style-name="P3"/>
+   <text:p text:style-name="P4">Что означает аннотация @Qualifier?</text:p>
    <text:p text:style-name="P4"/>
-   <text:p text:style-name="P3">Аннотация @RestController в Spring является специализированной версией аннотации @Controller, которая упрощает создание RESTful веб-сервисов. Она используется для обозначения класса как контроллера, который будет обрабатывать HTTP-запросы и возвращать данные в формате, подходящем для REST (обычно это JSON или XML).</text:p>
+   <text:p text:style-name="P3">В Spring аннотация @Qualifier используется для разрешения неоднозначности при внедрении зависимостей, когда в контейнере имеется несколько бинов одного и того же типа. </text:p>
    <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3">Когда вы используете @RestController, вы получаете следующие преимущества:</text:p>
-   <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3">1. Автоматическая сериализация ответов: Все методы, возвращающие объекты, будут автоматически сериализованы в JSON или XML в зависимости от настроек приложения. Не нужно добавлять дополнительные аннотации, такие как @ResponseBody.</text:p>
-   <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3">2. Упрощение кода: Поскольку @RestController объединяет функциональность @Controller и @ResponseBody, это делает код более чистым и легче читаемым.</text:p>
-   <text:p text:style-name="P3"/>
-   <text:p text:style-name="P3">3. Хорошая интеграция с другими аннотациями: Вы можете использовать @RequestMapping, @GetMapping, @PostMapping и другие аннотации для определения маршрутов и обработки различных типов HTTP-запросов.</text:p>
+   <text:p text:style-name="P3">Когда <text:span text:style-name="T4">используется</text:span> аннотаци<text:span text:style-name="T4">я</text:span> @Autowired для внедрения зависимости, Spring автоматически пытается найти бин подходящего типа <text:span text:style-name="T4">(т.е. классы реализуют один интерфейс и при создании бина указывается именно интерфейс)</text:span>. Если таких бинов несколько, возникает ситуация неоднозначности, и Spring выдает ошибку. В таких случаях можно использовать @Qualifier, чтобы указать, какой именно бин следует использовать. </text:p>
   </office:text>
  </office:body>
 </office:document>
